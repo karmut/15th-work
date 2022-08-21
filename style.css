@@ -1,0 +1,29 @@
+.discord,
+.whatsapp,
+.telegram,
+.snapchat {
+  width: 50px;
+}
+
+.socials {
+  background-color: black;
+  width: 400px;
+  justify-content: space-between;
+  padding: 10px, 15px;
+  display: flex;
+  margin: auto;
+  border-radius: 14px;
+}
+
+.discord:hover {
+  background-color: blue;
+}
+.whatsapp:hover {
+  background-color: rgb(44, 156, 70);
+}
+.mc:hover {
+  background-color: yellow;
+}
+.telegram:hover {
+  background-color: rgb(112, 140, 211);
+}
